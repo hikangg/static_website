@@ -1,6 +1,3 @@
 exports.handler = function(event, context, callback) {
-    callback(null, {
-        statusCode: 200,
-        body: 'No worries, all is working fine!'
-    })
+    console.log('here and there')
 }
