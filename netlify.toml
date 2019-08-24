@@ -1,4 +1,2 @@
 [build]
   Functions = "abnoba/functions"
-  command = "yarn run build"
-  publish = "dist"
