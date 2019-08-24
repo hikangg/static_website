@@ -1,5 +1,4 @@
 [build]
-  base = "abnoba/"
   Functions = "abnoba/functions"
   command = "yarn run build"
   publish = "dist"
